@@ -1,5 +1,8 @@
 # Face-mask-detection(Ongoing)
 ----
-- Used Library: Opencv
-- Used Classifier: Haar Cascade Classfier
-- Model: XceptionNet
+:bulb: TechStack/framework used
+- Opencv
+- Tensorflow
+- Keras
+- Haar Cascade Classifier
+- XceptionNet
